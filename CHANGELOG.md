@@ -1,5 +1,15 @@
 # Changelog for LambdaMOO Programming Repository
 
+## 2026-09-18
+
+### Added
+
+- Added [MOO Academy](https://moo.mudverse.com) as the first item in the README's
+  Start Here section.
+- Added the [MOO Academy](https://github.com/SindomeCorp/moo-academy) and
+  [MOO in JavaScript](https://github.com/SindomeCorp/moo-in-javascript) repositories
+  to Modern MOO Tooling, with descriptions and status notes.
+
 ## 2026-09-04
 
 ### Changed

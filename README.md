@@ -12,6 +12,7 @@ section below distinguishes current resources from archival material.
 
 | I want to… | Recommended starting point |
 | --- | --- |
+| Learn MOO with interactive lessons in my browser | [MOO Academy](https://moo.mudverse.com) |
 | Learn MOO programming | [Yib's Pet Rock](tutorials/yibs-pet-rock.md), then [Winding Duck](tutorials/winding-duck.md) |
 | Look up MOO syntax or built-in functions | [Updated LambdaMOO Programmer's Manual](tutorials/moo-programmers-manual-updated.md) |
 | Work with a current ToastStunt server | [ToastStunt Programmer's Manual](https://github.com/lisdude/toaststunt-documentation/blob/master/manual/toaststunt-programmers-manual.md) |
@@ -30,6 +31,8 @@ extracting checkpoint data, and analyzing a codebase.
 
 | Project | What it is | Status |
 | --- | --- | --- |
+| [MOO Academy](https://github.com/SindomeCorp/moo-academy) | Browser-based learning workspace with guided lessons, editable MOO examples, and sandbox worlds. Try it at [moo.mudverse.com](https://moo.mudverse.com). | Current |
+| [MOO in JavaScript](https://github.com/SindomeCorp/moo-in-javascript) | Educational MOO interpreter for Node.js and browsers with LambdaMOO and ToastStunt profiles; powers MOO Academy's local code execution. | Pre-1.0; implements a subset of MOO server behavior |
 | [Dome Client](https://github.com/SindomeCorp/dome-client) | Browser-based MUD/MOO client with a built-in IDE for editing verbs and properties. It is the maintained successor to the [legacy Dome Client](https://github.com/JavaChilly/dome-client.js). | Current |
 | [MOO Package Manager](https://github.com/sevenecks/moo-package-manager) | Configurable package manager written in MOO code for downloading, reviewing, installing, creating, and publishing packages on ToastStunt-derived MOOs. | Open beta; test packages on a development server first |
 | [MOO for LLMs](https://github.com/SindomeCorp/moo-for-llms) | Reference corpus, examples, datasets, schemas, and evaluations for teaching language models to read, write, and repair MOO code. | Current |
